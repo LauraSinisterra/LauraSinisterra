@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on making a collaborative fanzine online and my portfolio site (july 2020)
+- 🔭 I’m currently working on a personal project for my portfolio site (july 2020)
 - 🌱 I’m currently learning web design and product design and I'm using github to use this knowledge and build things :)
 - 👯 I’m looking to collaborate on cool internet things 
 - 📫 How to reach me: my twitter handle @lauracsc_
