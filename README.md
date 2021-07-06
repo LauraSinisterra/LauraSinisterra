@@ -5,6 +5,7 @@
 -->
 
 def. Visual designer. Undergrad philosophy student.
+
 0. Spends most of her time:
 1. Designing brand identities and websites.
 2. Doing creative work and theory.
