@@ -4,11 +4,11 @@
 **LauraSinisterra/LauraSinisterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-def. Visual designer. Undergrad philosophy student.
+def. Visual designer..
 
 0. Spends most of her time:
-1. Designing brand identities and websites.
-2. Doing creative work and theory.
-3. Learning through intentional experimentation. 
+1. Designing visual identities and websites.
+2. Making art and things.
+3. Thinking thoughts and writing. 
 
 
