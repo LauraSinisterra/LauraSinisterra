@@ -4,7 +4,7 @@
 **LauraSinisterra/LauraSinisterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-def. Visual designer..
+def. Visual designer.
 
 0. Spends most of her time:
 1. Designing visual identities and websites.
