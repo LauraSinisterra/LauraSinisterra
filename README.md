@@ -8,4 +8,4 @@ Interface and visual designer
 
 Thinking and making visuals with code. Designing, prototyping, writing, and making diagrams. Relentless optimistic.
 
-https://laurasinisterra.com
+[https://laura.computer](https://laura.computer)
